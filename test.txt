@@ -1,0 +1,14 @@
+git config --global user.name "piyapoj"
+
+
+git config --global user.email "mr.piyapoj@gmail.com"
+
+ถ้าต้องการตรวจสอบว่าเซฟชื่อกับอีเมลสำเร็จไหม
+
+พิมพ์:
+
+git config --global user.name
+git config --global user.email
+
+
+เครื่องจะแสดงชื่อกับอีเมลของคุณ
